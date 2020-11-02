@@ -1,0 +1,210 @@
+[
+    {
+        "id": 0,
+        "name": "1",
+        "spanText": "2-5",
+        "image": "lillydoo-testpaket-10.jpg",
+        "oeko": true,
+        "imageAlt": "testpaket-10",
+        "paketEnthalt": [
+            {
+                "id": 1,
+                "image": "lillydoo-testpaket-10.jpg",
+                "title": "10 LILLYDOO WINDELN",
+                "rating": 4.1,
+                "totalRrating": 12,
+                "description": [
+                    {
+                        "item": "Demo 1 Item 1"
+                    },
+                    {
+                        "item": "Demo 1 Item 2"
+                    },
+                    {
+                        "item": "Demo 1 Item 3"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "image": "lillydoo-testpaket-10.jpg",
+                "title": "15 FEUCHTTÜCHER MIT 99 % WASSER",
+                "rating": 4.2,
+                "totalRrating": 115,
+                "description": [
+                    {
+                        "item": "Demo 1 Item 1"
+                    },
+                    {
+                        "item": "Demo 1 Item 2"
+                    },
+                    {
+                        "item": "Demo 1 Item 3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "2",
+        "spanText": "4-8",
+        "image": "lillydoo-testpaket-20.jpg",
+        "oeko": false,
+        "imageAlt": "testpaket-20",
+        "paketEnthalt": [
+            {
+                "id": 1,
+                "image": "lillydoo-testpaket-20.jpg",
+                "title": "20 LILLYDOO WINDELN (demo 2)",
+                "rating": 4.7,
+                "totalRrating": 12,
+                "description": [
+                    {
+                        "item": "Demo 2 Item 1"
+                    },
+                    {
+                        "item": "Demo 2 Item 2"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "image": "lillydoo-testpaket-20.jpg",
+                "title": "15 FEUCHTTÜCHER MIT 99 % WASSER(demo2)",
+                "rating": 3.23,
+                "totalRrating": 115,
+                "description": [
+                    {
+                        "item": "Demo 2 Item 1"
+                    },
+                    {
+                        "item": "Demo 2 Item 2"
+                    },
+                    {
+                        "item": "Demo 2 Item 3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "3",
+        "spanText": "6-10",
+        "image": "lillydoo-testpaket-30.jpg",
+        "imageAlt": "testpaket-30",
+        "paketEnthalt": [
+            {
+                "id": 1,
+                "image": "lillydoo-testpaket-30.jpg",
+                "title": "20 LILLYDOO WINDELN (demo 3)",
+                "rating": 4.0,
+                "totalRrating": 12,
+                "description": []
+            },
+            {
+                "id": 2,
+                "image": "lillydoo-testpaket-30.jpg",
+                "title": "15 FEUCHTTÜCHER MIT 99 % WASSER(demo 3)",
+                "rating": 3.5,
+                "totalRrating": 115,
+                "description": [
+                    {
+                        "item": "Demo 3 Item 1"
+                    },
+                    {
+                        "item": "Demo 3 Item 2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "4",
+        "spanText": "9-14",
+        "image": "lillydoo-testpaket-40.jpg",
+        "imageAlt": "testpaket-40",
+        "paketEnthalt": [
+            {
+                "id": 1,
+                "image": "lillydoo-testpaket-40.jpg",
+                "title": "20 LILLYDOO WINDELN (demo 4)",
+                "rating": 2.25,
+                "totalRrating": 12,
+                "description": [
+                    {
+                        "item": "Demo 4 Item 1"
+                    },
+                    {
+                        "item": "Demo 4 Item 2"
+                    },
+                    {
+                        "item": "Demo 4 Item 3"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "image": "lillydoo-testpaket-40.jpg",
+                "title": "15 FEUCHTTÜCHER MIT 99 % WASSER(demo 4)",
+                "rating": 4.25,
+                "totalRrating": 115,
+                "description": [
+                    {
+                        "item": "Demo 4 Item 1"
+                    },
+                    {
+                        "item": "Demo 4 Item 2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "5",
+        "spanText": "11-16",
+        "image": "lillydoo-testpaket-50.jpg",
+        "imageAlt": "testpaket-50",
+        "paketEnthalt": [
+            {
+                "id": 1,
+                "image": "lillydoo-testpaket-50.jpg",
+                "title": "20 LILLYDOO WINDELN (demo 5)",
+                "rating": 4,
+                "totalRrating": 10,
+                "description": [
+                    {
+                        "item": "Demo 5 Item 1"
+                    },
+                    {
+                        "item": "Demo 5 Item 2"
+                    },
+                    {
+                        "item": "Demo 5 Item 3"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "image": "lillydoo-testpaket-50.jpg",
+                "title": "15 FEUCHTTÜCHER MIT 99 % WASSER(demo 5)",
+                "rating": 3.5,
+                "totalRrating": 100,
+                "description": [
+                    {
+                        "item": "Demo 5 Item 1"
+                    },
+                    {
+                        "item": "Demo 5 Item 2"
+                    },
+                    {
+                        "item": "Demo 5 Item 3"
+                    }
+                ]
+            }
+        ]
+    }
+]
